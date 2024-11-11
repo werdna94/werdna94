@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @werdna94
-- 💼 I've been working at Route for ![Days at Route](https://img.shields.io/badge/dynamic/json?color=blue&label=Days%20at%20Route&query=%24.days&url=https%3A%2F%2Fapi.example.com%2Fdays-at-route)
