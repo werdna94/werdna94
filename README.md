@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @werdna94
+- 💼 I've been working at Route for `Math.floor((new Date() - new Date('2020-04-27')) / (1000 * 60 * 60 * 24))` days
